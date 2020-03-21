@@ -281,3 +281,4 @@ Support, Demo, Training, API Certifications and Consulting available at http://g
 [sa-east-1-dbless-pv-stack-url]: https://console.aws.amazon.com/cloudformation/home?region=sa-east-1#/stacks/new?stackName=kong-elb-dbless-pv&templateURL=https:%2F%2Fs3.amazonaws.com%2Fkong-cf-templates%2Flatest%2Fkong-elb-dbless-vpc-optional-pv.template
 
 [stack-badge]: https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png
+[templates] : ./templates
